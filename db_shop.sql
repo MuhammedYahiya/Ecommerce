@@ -98,18 +98,12 @@ CREATE TABLE `tbl_category` (
 --
 
 INSERT INTO `tbl_category` (`catId`, `catName`) VALUES
-(1, 'Toys, Kids &amp; Babies'),
-(15, 'Beauty &amp; Healthcare'),
-(16, 'Home Decor &amp; Kitchen'),
 (17, 'Clothing'),
-(18, 'Jewellery'),
-(19, 'Footwear'),
 (20, 'Sports &amp; Fitness'),
 (21, 'Software'),
 (22, 'Accessories'),
 (23, 'Laptop'),
 (24, 'Desktop'),
-(25, 'Mobile Phones');
 
 -- --------------------------------------------------------
 

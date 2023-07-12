@@ -11,7 +11,7 @@
 						 <a href="details.php?proId=<?php echo $result['productId']; ?>"> <img src="admin/<?php echo $result['image']; ?>" alt="" /></a>
 					</div>
 				    <div class="text list_2_of_1">
-						<h2>Iphone</h2>
+						<h2>Arduino</h2>
 						<p><?php echo $result['productName']; ?></p>
 						<div class="button"><span><a href="details.php?proId=<?php echo $result['productId']; ?>">Add to cart</a></span></div>
 				   </div>
@@ -29,7 +29,7 @@
 						 <a href="details.php?proId=<?php echo $result['productId']; ?>"> <img src="admin/<?php echo $result['image']; ?>" alt="" /></a>
 					</div>
 				    <div class="text list_2_of_1">
-						<h2>Samsung</h2>
+						<h2>Editing</h2>
 						<p><?php echo $result['productName']; ?></p>
 						<div class="button"><span><a href="details.php?proId=<?php echo $result['productId']; ?>">Add to cart</a></span></div>
 				   </div>
@@ -87,7 +87,7 @@
 						<li><img src="" alt=""/></li>
 						<li><img src="" alt=""/></li>
 						<li><img src="" alt=""/></li>
-						<li><img src="" alt=""/></li>
+						<li><img src="i" alt=""/></li>
 				    </ul>
 				  </div>
 	      </section>
